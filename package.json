@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript boiler plate packages",
   "scripts": {
+    "start" : "node buildScripts/srcServer.js"
   },
   "author": "Abdelwahab Sadek",
   "license": "MIT",
