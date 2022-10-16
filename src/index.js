@@ -1,4 +1,6 @@
-import numeral from "numeral";
+import './index.css';
 
+import numeral from "numeral";
+debugger;
 const value = numeral(1000).format('$0,0.00');
 console.log(`I would pay ${value} for this course`)
