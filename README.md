@@ -8,4 +8,4 @@ git config --global core.editor "code --wait"
 
 ## Open global edit
 
-git config --global --eidt
+git config --global --edit
